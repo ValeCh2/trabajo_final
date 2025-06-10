@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 857.07 740.4">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1d1d1b;
+        font-size: 18px;
+      }
+
+      .cls-3 {
+        stroke-width: 4.24px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #ff7800;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-7 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-2 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-14 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        fill: #ffd7b0;
+      }
+
+      .cls-18 {
+        fill: #ffcf59;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-21 {
+        fill: #ff7800;
+      }
+
+      .cls-5 {
+        stroke-width: 3.25px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="cls-4" width="857.07" height="740.4"/>
+    </clipPath>
+  </defs>
+  <g id="Capa_3" data-name="Capa 3">
+    <g>
+      <g class="cls-20">
+        <path class="cls-18" d="M63.98,80.05c0,17.08-13.85,30.93-30.93,30.93S2.12,97.14,2.12,80.05s13.85-30.93,30.93-30.93,30.93,13.85,30.93,30.93"/>
+        <circle class="cls-3" cx="33.05" cy="80.05" r="30.93" transform="translate(-53.56 79.96) rotate(-67.5)"/>
+        <path class="cls-9" d="M46.97,93.67c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-5" d="M46.97,93.67c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-18" d="M63.98,581.18c0,17.08-13.85,30.93-30.93,30.93s-30.93-13.85-30.93-30.93,13.85-30.93,30.93-30.93,30.93,13.85,30.93,30.93"/>
+        <circle class="cls-3" cx="33.05" cy="581.18" r="30.93"/>
+        <path class="cls-9" d="M46.97,594.8c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-5" d="M46.97,594.8c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-18" d="M63.98,333.7c0,17.08-13.85,30.93-30.93,30.93s-30.93-13.85-30.93-30.93,13.85-30.93,30.93-30.93,30.93,13.85,30.93,30.93"/>
+        <circle class="cls-3" cx="33.05" cy="333.7" r="30.93"/>
+        <path class="cls-9" d="M46.97,347.32c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-5" d="M46.97,347.32c0,5.84-6.23,10.58-13.92,10.58s-13.92-4.74-13.92-10.58h27.83Z"/>
+        <path class="cls-18" d="M843.11,205.48c0,17.13-13.89,31.02-31.02,31.02s-31.02-13.89-31.02-31.02,13.89-31.02,31.02-31.02,31.02,13.89,31.02,31.02"/>
+        <circle class="cls-3" cx="812.09" cy="205.48" r="31.02" transform="translate(-16.82 326.41) rotate(-22.5)"/>
+      </g>
+      <polygon class="cls-21" points="841.34 189.63 851.18 197.78 773 197.78 783.19 189.63 783.19 167.55 841.34 167.55 841.34 189.63"/>
+      <g class="cls-11">
+        <polygon class="cls-3" points="841.34 189.63 851.18 197.78 773 197.78 783.19 189.63 783.19 167.55 841.34 167.55 841.34 189.63"/>
+        <path class="cls-9" d="M809.27,209.5c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="798.57" cy="209.5" rx="10.7" ry="7.27"/>
+        <path class="cls-9" d="M836.31,209.5c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="825.61" cy="209.5" rx="10.7" ry="7.27"/>
+      </g>
+      <line class="cls-3" x1="809.33" y1="209.48" x2="814.85" y2="209.48"/>
+      <g class="cls-19">
+        <path class="cls-18" d="M843.11,707.25c0,17.13-13.89,31.02-31.02,31.02s-31.02-13.89-31.02-31.02,13.89-31.02,31.02-31.02,31.02,13.89,31.02,31.02"/>
+        <circle class="cls-3" cx="812.09" cy="707.25" r="31.02" transform="translate(-44.13 54.11) rotate(-3.72)"/>
+      </g>
+      <polygon class="cls-21" points="841.34 691.4 851.18 699.55 773 699.55 783.19 691.4 783.19 669.33 841.34 669.33 841.34 691.4"/>
+      <g class="cls-13">
+        <polygon class="cls-3" points="841.34 691.4 851.18 699.55 773 699.55 783.19 691.4 783.19 669.33 841.34 669.33 841.34 691.4"/>
+        <path class="cls-9" d="M809.27,711.27c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="798.57" cy="711.27" rx="10.7" ry="7.27"/>
+        <path class="cls-9" d="M836.31,711.27c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="825.61" cy="711.27" rx="10.7" ry="7.27"/>
+      </g>
+      <line class="cls-3" x1="809.33" y1="711.26" x2="814.85" y2="711.26"/>
+      <rect class="cls-17" x="92.2" width="506.27" height="85.5"/>
+      <polygon class="cls-17" points="92.2 59 78.95 85.5 105.45 85.5 92.2 59"/>
+      <rect class="cls-17" x="92.2" y="514.75" width="506.27" height="85.5"/>
+      <polygon class="cls-17" points="92.2 573.75 78.95 600.25 105.45 600.25 92.2 573.75"/>
+      <rect class="cls-17" x="92.2" y="268.55" width="394.75" height="63.2"/>
+      <polygon class="cls-17" points="92.2 310.14 78.95 331.75 105.45 331.75 92.2 310.14"/>
+      <rect class="cls-17" x="174.45" y="116.03" width="579.77" height="105.25"/>
+      <polygon class="cls-17" points="754.22 199.19 767.47 221.28 740.97 221.28 754.22 199.19"/>
+      <rect class="cls-17" x="174.45" y="611.75" width="579.77" height="105.75"/>
+      <polygon class="cls-17" points="754.22 695.38 767.47 717.5 740.97 717.5 754.22 695.38"/>
+      <text class="cls-2" transform="translate(116.2 37.1)"><tspan x="0" y="0">¿Qué </tspan></text>
+      <text class="cls-1" transform="translate(166.22 37.1)"><tspan x="0" y="0">caracteriza</tspan></text>
+      <text class="cls-2" transform="translate(260.29 37.1)"><tspan x="0" y="0" xml:space="preserve"> a su guiatura de </tspan></text>
+      <text class="cls-2" transform="translate(399.38 37.1)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-2" transform="translate(399.4 37.1)"><tspan x="0" y="0">Proyecto de título y </tspan></text>
+      <text class="cls-2" transform="translate(116.22 58.11)"><tspan x="0" y="0">cómo se relaciona </tspan></text>
+      <text class="cls-2" transform="translate(267.28 58.11)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-2" transform="translate(267.29 58.11)"><tspan x="0" y="0">con su enfoque de </tspan></text>
+      <text class="cls-1" transform="translate(420.42 58.11)"><tspan x="0" y="0">textos textiles</tspan></text>
+      <text class="cls-2" transform="translate(540.46 58.11)"><tspan x="0" y="0">?</tspan></text>
+      <text class="cls-2" transform="translate(116.22 551.87)"><tspan x="0" y="0">¿Cuál de las </tspan></text>
+      <text class="cls-1" transform="translate(222.28 551.87)"><tspan x="0" y="0">competencias sello</tspan></text>
+      <text class="cls-2" transform="translate(388.34 551.87)"><tspan x="0" y="0" xml:space="preserve"> considera esenciales </tspan></text>
+      <text class="cls-2" transform="translate(116.22 572.87)"><tspan x="0" y="0">para su guiatura de Proyecto de</tspan><tspan class="cls-16" x="256.17" y="0"> </tspan><tspan x="260.88" y="0">Título? </tspan></text>
+      <text class="cls-2" transform="translate(116.22 305.13)"><tspan x="0" y="0">¿Cómo </tspan></text>
+      <text class="cls-1" transform="translate(180.23 305.13)"><tspan x="0" y="0">organiza</tspan></text>
+      <text class="cls-2" transform="translate(254.24 305.13)"><tspan x="0" y="0" xml:space="preserve"> Proyecto de</tspan><tspan class="cls-8" x="101.06" y="0"> </tspan><tspan x="105.75" y="0">Título I y II? </tspan></text>
+      <text class="cls-2" transform="translate(198.97 152.65)"><tspan x="0" y="0">Mi guiatura está orientada en una </tspan></text>
+      <text class="cls-1" transform="translate(472.15 152.65)"><tspan x="0" y="0">docencia inclusiva</tspan></text>
+      <text class="cls-2" transform="translate(632.23 152.65)"><tspan x="0" y="0" xml:space="preserve"> donde el </tspan></text>
+      <text class="cls-2" transform="translate(198.97 173.65)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-1" transform="translate(198.97 173.65)"><tspan x="0" y="0">textil es un texto que viste todos los cuerpos</tspan></text>
+      <text class="cls-2" transform="translate(583.93 173.65)"><tspan x="0" y="0">. Se reconoce que </tspan></text>
+      <text class="cls-2" transform="translate(198.97 194.66)"><tspan x="0" y="0"> </tspan></text>
+      <text class="cls-2" transform="translate(198.97 194.66)"><tspan x="0" y="0">cada uno es único, diferente y tiene su propio relato.</tspan></text>
+      <text class="cls-2" transform="translate(198.97 648.89)"><tspan class="cls-14" x="0" y="0">Y</tspan><tspan x="10.37" y="0">o creo que el </tspan></text>
+      <text class="cls-1" transform="translate(318.4 648.89)"><tspan x="0" y="0">pensamiento crítico</tspan></text>
+      <text class="cls-2" transform="translate(488.44 648.89)"><tspan x="0" y="0" xml:space="preserve"> ya que demuestra que el </tspan></text>
+      <text class="cls-2" transform="translate(198.97 669.9)"><tspan x="0" y="0">diseñador está abierto y permeable.</tspan><tspan class="cls-15" x="287.17" y="0"> </tspan><tspan class="cls-7" x="291.9" y="0">T</tspan><tspan class="cls-10" x="300.92" y="0">ambién la capacidad de </tspan></text>
+      <text class="cls-2" transform="translate(198.97 690.9)"><tspan x="0" y="0">participar en la generación de </tspan></text>
+      <text class="cls-1" transform="translate(441.12 690.9)"><tspan x="0" y="0">conocimiento transdisciplinario.</tspan></text>
+      <g class="cls-6">
+        <path class="cls-18" d="M843.11,445.86c0,17.13-13.89,31.02-31.02,31.02s-31.02-13.89-31.02-31.02,13.89-31.02,31.02-31.02,31.02,13.89,31.02,31.02"/>
+        <circle class="cls-3" cx="812.09" cy="445.86" r="31.02" transform="translate(-108.81 344.71) rotate(-22.5)"/>
+      </g>
+      <polygon class="cls-21" points="841.34 430.01 851.18 438.16 773 438.16 783.19 430.01 783.19 407.94 841.34 407.94 841.34 430.01"/>
+      <g class="cls-12">
+        <polygon class="cls-3" points="841.34 430.01 851.18 438.16 773 438.16 783.19 430.01 783.19 407.94 841.34 407.94 841.34 430.01"/>
+        <path class="cls-9" d="M809.27,449.88c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="798.57" cy="449.88" rx="10.7" ry="7.27"/>
+        <path class="cls-9" d="M836.31,449.88c0,4.01-4.79,7.27-10.7,7.27s-10.7-3.25-10.7-7.27,4.79-7.27,10.7-7.27,10.7,3.25,10.7,7.27"/>
+        <ellipse class="cls-3" cx="825.61" cy="449.88" rx="10.7" ry="7.27"/>
+      </g>
+      <line class="cls-3" x1="809.33" y1="449.87" x2="814.85" y2="449.87"/>
+      <rect class="cls-17" x="174.45" y="343.75" width="579.77" height="126.25"/>
+      <polygon class="cls-17" points="754.22 443.5 767.47 470 740.97 470 754.22 443.5"/>
+      <text class="cls-2" transform="translate(198.95 380.35)"><tspan x="0" y="0">Primero se elige un </tspan></text>
+      <text class="cls-1" transform="translate(359.03 380.35)"><tspan x="0" y="0">área de interés</tspan></text>
+      <text class="cls-2" transform="translate(486.11 380.35)"><tspan x="0" y="0">, ya sea clara o aún ambigua, </tspan></text>
+      <text class="cls-2" transform="translate(198.95 401.36)"><tspan x="0" y="0">que se </tspan></text>
+      <text class="cls-1" transform="translate(257.99 401.36)"><tspan x="0" y="0">explora </tspan></text>
+      <text class="cls-2" transform="translate(327.02 401.36)"><tspan x="0" y="0">y </tspan></text>
+      <text class="cls-1" transform="translate(341.03 401.36)"><tspan x="0" y="0">estructura</tspan></text>
+      <text class="cls-2" transform="translate(429.06 401.36)"><tspan x="0" y="0" xml:space="preserve"> durante el primer semestre como </tspan></text>
+      <text class="cls-2" transform="translate(198.95 422.37)"><tspan x="0" y="0">investigación. Luego esta se desarrolla como </tspan></text>
+      <text class="cls-1" transform="translate(564.17 422.37)"><tspan x="0" y="0">taller</tspan></text>
+      <text class="cls-2" transform="translate(607.19 422.37)"><tspan x="0" y="0" xml:space="preserve"> en el </tspan></text>
+      <text class="cls-2" transform="translate(198.95 443.37)"><tspan x="0" y="0">segundo semestre.</tspan></text>
+    </g>
+  </g>
+</svg>

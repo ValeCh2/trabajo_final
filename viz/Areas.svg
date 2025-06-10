@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671.51 58.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcab0;
+      }
+
+      .cls-2 {
+        fill: #f15a22;
+      }
+
+      .cls-3 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+        font-family: ArialMT, Arial;
+        font-size: 24px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_4" data-name="Capa 4">
+    <g>
+      <rect class="cls-1" x="496.3" width="175.21" height="58.51"/>
+      <rect class="cls-1" x="331.4" width="148.11" height="58.51"/>
+      <rect class="cls-1" x="166.51" width="148.11" height="58.51"/>
+      <rect class="cls-1" width="148.11" height="58.51"/>
+      <rect class="cls-2" y="53.41" width="148.11" height="5.1"/>
+      <rect class="cls-2" x="166.51" y="53.41" width="148.11" height="5.1"/>
+      <rect class="cls-2" x="331.4" y="53.41" width="148.11" height="5.1"/>
+      <rect class="cls-2" x="496.3" y="53.41" width="175.21" height="5.1"/>
+      <text class="cls-4" transform="translate(47.64 35.65)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan class="cls-5" x="11.08" y="0">e</tspan><tspan x="23.5" y="0">xtil</tspan></text>
+      <text class="cls-4" transform="translate(191.19 35.65)"><tspan x="0" y="0">Identidad</tspan></text>
+      <text class="cls-4" transform="translate(357.43 35.65)"><tspan x="0" y="0">Creación</tspan></text>
+      <text class="cls-4" transform="translate(520.32 35.65)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan x="11.08" y="0">ecnologías</tspan></text>
+    </g>
+  </g>
+</svg>
