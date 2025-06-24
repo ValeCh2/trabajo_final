@@ -1,22 +1,23 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 610" width="1120" height="610">
     <title>Multi_set_bar_chart</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible');
         g#viz {
             font-size: 14px;
             fill: #000000;
-            font-family: Helvetica, Arial, sans-serif;
+            font-family: "Atkinson Hyperlegible", sans-serif;
         }
 
         g#reprueban {
-            fill: #9b9b9b;
+            fill: #5b5b5b;
         }
 
         g#aprueban {
-            fill: #189af6;
+            fill: #6C76EF;
         }
 
         g#industriales {
-            fill: #125389;
+            fill: #1C3CB5;
         }
 
         g#sinmencion {
