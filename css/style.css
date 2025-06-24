@@ -9,9 +9,10 @@
     --bs-link-hover-color-rgb: 108, 118, 239;
 }
 
-text-bg-primary{
-    background-color: slateblue!important;
+.text-bg-primary{
+    background-color: hotpink !important;
 }
+
 em{
     font-style: normal;
     font-weight: 500;
